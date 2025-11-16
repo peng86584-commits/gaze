@@ -31,6 +31,13 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
 
 <!-- 图片 2, 3, 4 一排展示，统一大小 -->
 <div align="center">
+    <a href="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" target="_blank">
+  <img width="290" height="234" alt="图片11" src="https://github.com/user-attachments/assets/0f2ecb2d-3cd2-41ab-81fa-27e61aafe383" />
+  <img width="300" height="228" alt="图片12" src="https://github.com/user-attachments/assets/f3e91f3b-5e87-46a1-829a-327f8e3a721d" />
+  <img width="313" height="228" alt="图片13" src="https://github.com/user-attachments/assets/5be57660-463a-4003-a2a8-b5b5d1d75549" />
+
+
+  </a>
   <a href="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" target="_blank">
     <img width="300" height="228" alt="图片5" src="https://github.com/user-attachments/assets/0fcd3faf-e1b1-49cd-8377-1191fd277ce4" />
     <img width="300" height="228" alt="图片6" src="https://github.com/user-attachments/assets/9732d414-9a6a-4257-a961-852fca559244" />
