@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- 项目 Logo -->
-![GAZELOOM Logo](https://github.com/user-attachments/assets/8a09450b-f78c-4cad-a80b-371f41967d94)
-![PP](https://github.com/user-attachments/assets/3c4055b2-9ec1-40ee-9c79-b664945336d9)
+
 <!-- 主标题 -->
 # ⚡ GAZELOOM ⚡
 ![PP](https://github.com/user-attachments/assets/3c4055b2-9ec1-40ee-9c79-b664945336d9)
