@@ -6,7 +6,7 @@
 
 <!-- 主标题 -->
 <h1 style="font-size:58px;color:#00FFFF;text-shadow:0 0 10px #00FFFF, 0 0 25px #0088FF;">
-⚡ GazeLoom ⚡
+⚡ GAZELOOM ⚡
 </h1>
 
 <!-- 副标题 -->
