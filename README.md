@@ -72,28 +72,19 @@ Here are the performance metrics on key datasets:
 
 ## 📸 Images
 
-<!-- 图片 1 -->
-<div align="center">
-  ![Image 2](https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c)
-</div>
+<!-- 第一张图片 -->
+![Image 2](https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c)
 
-<!-- 图片 2 -->
-<div align="center">
-  ![Image 3](https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4)
-</div>
+<!-- 第二张图片 -->
+![Image 3](https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4)
 
-<!-- 图片 3 -->
-<div align="center">
-  ![Image 4](https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de)
-</div>
+<!-- 第三张图片 -->
+![Image 4](https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de)
 
-<!-- 图片 4 -->
-<div align="center">
-  ![Image 1](https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c)
-</div>
+<!-- 第四张图片 -->
+![Image 1](https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c)
 
 ---
-
 
 
 
