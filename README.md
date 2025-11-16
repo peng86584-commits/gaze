@@ -1,23 +1,16 @@
 <div align="center">
 
 <!-- 项目 Logo -->
-<img src="https://github.com/user-attachments/assets/8a09450b-f78c-4cad-a80b-371f41967d94" 
-     alt="GAZELOOM Logo" width="260" height="165" />
+![GAZELOOM Logo](https://github.com/user-attachments/assets/8a09450b-f78c-4cad-a80b-371f41967d94)
 
 <!-- 主标题 -->
-<h1 style="font-size:58px;color:#00FFFF;text-shadow:0 0 10px #00FFFF, 0 0 25px #0088FF;">
-⚡ GAZELOOM ⚡
-</h1>
+# ⚡ GAZELOOM ⚡
 
 <!-- 副标题 -->
-<h3 style="color:#C0FFFF;">
-3D Driver Gaze Estimation Framework
-</h3>
+### 3D Driver Gaze Estimation Framework
 
 <!-- 描述 -->
-<p style="color:#A0F0FF;font-size:16px;">
 A lightweight and robust driver gaze estimation system powered by self-supervised learning and geometry guidance.
-</p>
 
 ---
 
@@ -44,5 +37,26 @@ Camera → Face Landmark → Head Pose → Eye Gaze Vector
    Cross-modal Gating Attention
         ↓
    3D Gaze Point Prediction
+📊 Datasets & Results
+| Dataset              |   AUC ↑   |    L2 ↓    |    AP ↑   |
+| -------------------- | :-------: | :--------: | :-------: |
+| GazeFollow           | **0.964** | **0.1028** |     -     |
+| VideoAttentionTarget | **0.945** |  **0.101** | **0.917** |
+🧩 Keywords
+Gaze Estimation · Self-Supervised Learning · Multi-Modal Fusion · Geometry-Guided Vision
+
+<p align="center" style="color:#8DF7FF;font-size:18px;"> “Where the gaze goes, intelligence follows.” </p>
+<!-- 第一张图片 -->
+
+
+<!-- 第二张图片 -->
+
+
+<!-- 第三张图片 -->
+
+
+<!-- 第四张图片 -->
+
+
 
 
