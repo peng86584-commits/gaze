@@ -29,33 +29,70 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
 ---
 
 ## 🧠 Architecture Overview
-```text
-Camera → Face Landmark → Head Pose → Eye Gaze Vector 
-        ↓
-   Multi-modal Geometry Guidance
-        ↓
-   Cross-modal Gating Attention
-        ↓
-   3D Gaze Point Prediction
-📊 Datasets & Results
-| Dataset              |   AUC ↑   |    L2 ↓    |    AP ↑   |
-| -------------------- | :-------: | :--------: | :-------: |
-| GazeFollow           | **0.964** | **0.1028** |     -     |
-| VideoAttentionTarget | **0.945** |  **0.101** | **0.917** |
-🧩 Keywords
-Gaze Estimation · Self-Supervised Learning · Multi-Modal Fusion · Geometry-Guided Vision
 
-<p align="center" style="color:#8DF7FF;font-size:18px;"> “Where the gaze goes, intelligence follows.” </p>
-<!-- 第一张图片 -->
+The architecture of **GAZELOOM** is designed to efficiently estimate the 3D gaze points of the driver by integrating several key components:
 
+1. **Camera Input → Face Landmark → Head Pose → Eye Gaze Vector**  
+   The input from the camera is processed to extract face landmarks, head pose, and eye gaze vectors.
+   
+2. **Multi-modal Geometry Guidance**  
+   This component integrates spatial geometric priors from different sensor modalities (e.g., facial features, head orientation, and gaze vector), enhancing the model's robustness and accuracy.
 
-<!-- 第二张图片 -->
+3. **Cross-modal Gating Attention**  
+   Cross-modal attention mechanisms are applied to adaptively align semantic (e.g., gaze) and geometric information, optimizing the fusion of both inputs for better gaze prediction.
 
+4. **3D Gaze Point Prediction**  
+   Finally, the processed features are used to predict the 3D gaze point, which represents the driver's point of attention in the 3D space of the vehicle environment.
 
-<!-- 第三张图片 -->
+---
 
+## 📊 Datasets & Results
 
-<!-- 第四张图片 -->
+Here are the performance metrics on key datasets:
+
+| **Dataset**              | **AUC ↑** | **L2 ↓**  | **AP ↑**   |
+|--------------------------|:---------:|:---------:|:---------:|
+| **GazeFollow**            | **0.964** | **0.1028**| -         |
+| **VideoAttentionTarget**  | **0.945** | **0.101** | **0.917** |
+
+> The GazeLoom model achieves high performance across multiple benchmarks with **lightweight architecture**.
+
+---
+
+## 🧩 Keywords
+**Gaze Estimation · Self-Supervised Learning · Multi-Modal Fusion · Geometry-Guided Vision**
+
+---
+
+<p align="center" style="color:#8DF7FF;font-size:18px;">
+“Where the gaze goes, intelligence follows.”
+</p>
+
+---
+
+## 📸 Images
+
+<!-- 图片 1 -->
+<div align="center">
+  ![Image 2](https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c)
+</div>
+
+<!-- 图片 2 -->
+<div align="center">
+  ![Image 3](https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4)
+</div>
+
+<!-- 图片 3 -->
+<div align="center">
+  ![Image 4](https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de)
+</div>
+
+<!-- 图片 4 -->
+<div align="center">
+  ![Image 1](https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c)
+</div>
+
+---
 
 
 
