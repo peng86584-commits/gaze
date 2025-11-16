@@ -28,6 +28,23 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
 
 ---
 
+## 📸 Visuals
+
+<!-- 图片 2, 3, 4 一排展示，统一大小 -->
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" alt="Image 2" width="267" height="240" style="border-radius: 10px; transition: transform 0.3s ease; margin-right: 10px;">
+  </a>
+  <a href="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" alt="Image 3" width="267" height="240" style="border-radius: 10px; transition: transform 0.3s ease; margin-right: 10px;">
+  </a>
+  <a href="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" alt="Image 4" width="267" height="240" style="border-radius: 10px; transition: transform 0.3s ease;">
+  </a>
+</div>
+
+---
+
 ## 🧠 Architecture Overview
 
 The architecture of **GAZELOOM** is designed to efficiently estimate the 3D gaze points of the driver by integrating several key components:
@@ -69,22 +86,3 @@ Here are the performance metrics on key datasets:
 </p>
 
 ---
-
-## 📸 Images
-
-<!-- 第一张图片 -->
-![Image 2](https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c)
-
-<!-- 第二张图片 -->
-![Image 3](https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4)
-
-<!-- 第三张图片 -->
-![Image 4](https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de)
-
-<!-- 第四张图片 -->
-![Image 1](https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c)
-
----
-
-
-
