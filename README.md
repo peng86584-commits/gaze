@@ -28,18 +28,27 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
 
 ---
 
+## ✨ Key Features
+
+- 🧠 **Geometry-Guided Learning** – Combines semantic and geometric priors for robust gaze estimation  
+- ⚙️ **Self-Supervised Backbone** – Reduces dependency on labeled data  
+- 🚗 **Driver-Centric Design** – Optimized for in-cabin and driving environments  
+- ⚡ **Lightweight Deployment** – Only 4.97M parameters, real-time performance on edge devices  
+
+---
+
 ## 📸 Visuals
 
 <!-- 图片 2, 3, 4 一排展示，统一大小 -->
 <div align="center">
   <a href="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" alt="Image 2" width="267" height="240" style="border-radius: 10px; transition: transform 0.3s ease; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" alt="Image 2" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease; margin-right: 10px;">
   </a>
   <a href="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" alt="Image 3" width="267" height="240" style="border-radius: 10px; transition: transform 0.3s ease; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" alt="Image 3" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease; margin-right: 10px;">
   </a>
   <a href="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" alt="Image 4" width="267" height="240" style="border-radius: 10px; transition: transform 0.3s ease;">
+    <img src="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" alt="Image 4" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease;">
   </a>
 </div>
 
@@ -76,13 +85,11 @@ Here are the performance metrics on key datasets:
 
 ---
 
-## 🧩 Keywords
-**Gaze Estimation · Self-Supervised Learning · Multi-Modal Fusion · Geometry-Guided Vision**
+## ⚙️ Installation
 
----
+Clone the repository and install the necessary dependencies:
 
-<p align="center" style="color:#8DF7FF;font-size:18px;">
-“Where the gaze goes, intelligence follows.”
-</p>
-
----
+```bash
+git clone https://github.com/yourname/GAZELOOM.git
+cd GAZELOOM
+pip install -r requirements.txt
