@@ -2,10 +2,10 @@
 
 <!-- 项目 Logo -->
 ![GAZELOOM Logo](https://github.com/user-attachments/assets/8a09450b-f78c-4cad-a80b-371f41967d94)
-
+![PP](https://github.com/user-attachments/assets/3c4055b2-9ec1-40ee-9c79-b664945336d9)
 <!-- 主标题 -->
 # ⚡ GAZELOOM ⚡
-
+![PP](https://github.com/user-attachments/assets/3c4055b2-9ec1-40ee-9c79-b664945336d9)
 <!-- 副标题 -->
 ### 3D Driver Gaze Estimation Framework
 
@@ -35,14 +35,20 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
   <a href="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" target="_blank">
     <img width="300" height="228" alt="图片5" src="https://github.com/user-attachments/assets/0fcd3faf-e1b1-49cd-8377-1191fd277ce4" />
     <img width="300" height="228" alt="图片6" src="https://github.com/user-attachments/assets/9732d414-9a6a-4257-a961-852fca559244" />
+    <img width="313" height="228" alt="图片7" src="https://github.com/user-attachments/assets/1d4f8971-6ece-4c7a-b9c9-ca485f1a7730" />
+
   </a>
   <a href="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" alt="Image 3" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease; margin-right: 10px;">
-   <img src="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" alt="Image 4" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease;">
+    <img width="293" height="236" alt="图片8" src="https://github.com/user-attachments/assets/7548f741-8b97-4528-af2f-92d2100ccae1" />
+    <img width="300" height="232" alt="图片9" src="https://github.com/user-attachments/assets/f996580c-a005-4c7a-b511-fe9c7584b7e4" />
+    <img width="300" height="232" alt="图片10" src="https://github.com/user-attachments/assets/e3bead59-4718-441f-b701-2b23fa40d6dc" />
 
   </a>
   <a href="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" alt="Image 4" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease;">
+  <img width="281" height="232" alt="图片1" src="https://github.com/user-attachments/assets/8c2f4bc4-eb1f-4303-a93b-be26cd17d0f9" />
+  <img width="304" height="232" alt="图片2" src="https://github.com/user-attachments/assets/7302f26f-8360-4d99-9130-3180c2942869" />
+  <img width="301" height="232" alt="图片3" src="https://github.com/user-attachments/assets/bb47e194-9054-4cb9-9dc5-e25220f233a8" />
+
   </a>
 </div>
 
