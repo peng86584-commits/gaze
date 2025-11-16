@@ -33,10 +33,13 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
 <!-- 图片 2, 3, 4 一排展示，统一大小 -->
 <div align="center">
   <a href="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" alt="Image 2" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease; margin-right: 10px;">
+    <img width="300" height="228" alt="图片5" src="https://github.com/user-attachments/assets/0fcd3faf-e1b1-49cd-8377-1191fd277ce4" />
+    <img width="300" height="228" alt="图片6" src="https://github.com/user-attachments/assets/9732d414-9a6a-4257-a961-852fca559244" />
   </a>
   <a href="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" target="_blank">
     <img src="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" alt="Image 3" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease; margin-right: 10px;">
+   <img src="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" alt="Image 4" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease;">
+
   </a>
   <a href="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" target="_blank">
     <img src="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" alt="Image 4" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease;">
