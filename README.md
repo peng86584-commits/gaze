@@ -28,15 +28,6 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
 
 ---
 
-## ✨ Key Features
-
-- 🧠 **Geometry-Guided Learning** – Combines semantic and geometric priors for robust gaze estimation  
-- ⚙️ **Self-Supervised Backbone** – Reduces dependency on labeled data  
-- 🚗 **Driver-Centric Design** – Optimized for in-cabin and driving environments  
-- ⚡ **Lightweight Deployment** – Only 4.97M parameters, real-time performance on edge devices  
-
----
-
 ## 📸 Visuals
 
 <!-- 图片 2, 3, 4 一排展示，统一大小 -->
@@ -51,6 +42,15 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
     <img src="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" alt="Image 4" width="250" height="250" style="border-radius: 10px; transition: transform 0.3s ease;">
   </a>
 </div>
+
+---
+
+## ✨ Key Features
+
+- 🧠 **Geometry-Guided Learning** – Combines semantic and geometric priors for robust gaze estimation  
+- ⚙️ **Self-Supervised Backbone** – Reduces dependency on labeled data  
+- 🚗 **Driver-Centric Design** – Optimized for in-cabin and driving environments  
+- ⚡ **Lightweight Deployment** – Only 4.97M parameters, real-time performance on edge devices  
 
 ---
 
