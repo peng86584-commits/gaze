@@ -136,11 +136,7 @@ achieving improved robustness, generalization, and real-time performance in dive
 ### 🧩 MGG — Multi-modal Geometry Guidance
 **MGG** is one of the core modules of GazeLoom, responsible for integrating geometric priors from multiple modalities to enhance robustness in complex driving conditions.
 <div align="center">
-  https://github.com/user-attachments/assets/1d75adaa-3f3c-4131-9506-0fcd5337c5ba
   <img width="700" height="700" alt="GazeLoom Framework" src="https://github.com/user-attachments/assets/1d75adaa-3f3c-4131-9506-0fcd5337c5ba" />
-
-  <img width="700" height="700" alt="GazeLoom Framework" src="https://github.com/user-attachments/assets/f19f31bf-c917-4ffc-bb9c-e86c726cc065" />
-
 </div>
 
 - **Input Sources**: Facial landmarks, head pose, and eye-region depth features  
