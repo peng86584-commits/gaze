@@ -151,7 +151,9 @@ achieving improved robustness, generalization, and real-time performance in dive
 
 ### 🔗 CGF — Cross-modal Gating Fusion
 **CGF** introduces a **gating mechanism** that dynamically balances semantic and geometric features during fusion, ensuring optimal information flow between modalities.
-
+<div align="center">
+  <img width="400" height="700" alt="GazeLoom Framework" src="https://github.com/user-attachments/assets/ce87da76-3cdb-48eb-9fb6-aa95cef654af" />
+</div>4
 - **Mechanism**:
   - Learns to assign adaptive weights between geometry and semantic branches  
   - Prevents over-reliance on a single modality under extreme conditions  
@@ -167,6 +169,9 @@ achieving improved robustness, generalization, and real-time performance in dive
 ## 🧠 Architecture Overview
 
 The architecture of **GAZELOOM** is designed to efficiently estimate the 3D gaze points of the driver by integrating several key components:
+<div align="center">
+  <img width="900" height="900" alt="GazeLoom Framework" src="https://github.com/user-attachments/assets/acd7deab-6800-4aa1-a8d5-e065729dd186" />
+</div>
 
 1. **Camera Input → Face Landmark → Head Pose → Eye Gaze Vector**  
    The input from the camera is processed to extract face landmarks, head pose, and eye gaze vectors.
