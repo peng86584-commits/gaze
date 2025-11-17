@@ -10,7 +10,8 @@
 
 <!-- 描述 -->
 A lightweight and robust driver gaze estimation system powered by self-supervised learning and geometry guidance.
-![PP](https://github.com/user-attachments/assets/3c4055b2-9ec1-40ee-9c79-b664945336d9)
+![1478](https://github.com/user-attachments/assets/d8c383f4-6a71-4a12-8f5a-9d0b100ba8db)
+
 ---
 
 </div>
