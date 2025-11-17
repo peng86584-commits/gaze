@@ -68,7 +68,36 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
 - ⚡ **Lightweight Deployment** – Only 4.97M parameters, real-time performance on edge devices  
 
 ---
+## 🔍 Module Details
 
+### 🧩 MGG — Multi-modal Geometry Guidance
+**MGG** is one of the core modules of GazeLoom, responsible for integrating geometric priors from multiple modalities to enhance robustness in complex driving conditions.
+
+- **Input Sources**: Facial landmarks, head pose, and eye-region depth features  
+- **Functions**:
+  - Builds **multi-modal geometric representations** to capture spatial relationships between facial structure and orientation  
+  - Applies **Geometry Consistency Loss** to enforce cross-modal consistency  
+  - Uses a lightweight transformer to model spatial dependencies  
+
+> 💡 *MGG enables GazeLoom to maintain high precision under lighting changes, head rotations, and partial occlusions.*
+
+---
+
+### 🔗 CGF — Cross-modal Gating Fusion
+**CGF** introduces a **gating mechanism** that dynamically balances semantic and geometric features during fusion, ensuring optimal information flow between modalities.
+
+- **Mechanism**:
+  - Learns to assign adaptive weights between geometry and semantic branches  
+  - Prevents over-reliance on a single modality under extreme conditions  
+  - Jointly optimized with MGG to achieve **geometry-constrained cross-modal fusion**
+
+- **Advantages**:
+  - Improves semantic coherence and spatial continuity  
+  - Enhances generalization and stability for real-time driver monitoring  
+
+> ⚙️ *CGF strengthens inter-modal cooperation, making GazeLoom accurate and reliable in real-world in-cabin scenarios.*
+
+---
 ## 🧠 Architecture Overview
 
 The architecture of **GAZELOOM** is designed to efficiently estimate the 3D gaze points of the driver by integrating several key components:
