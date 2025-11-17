@@ -74,17 +74,13 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
 - ⚡ **Lightweight Deployment** – Only 4.97M parameters, real-time performance on edge devices  
 
 ---
-## 🧩 Overall Framework
 
-The proposed **GazeLoom** framework is a lightweight and geometry-guided approach for **3D driver gaze estimation** in railway driving scenarios.  
-It consists of three key stages — **Feature Extraction**, **Geometry Guidance**, and **Fusion & Prediction**, as illustrated in **Figure 1** below.
-
-<p align="center">
-      <img width="260" height="200" alt="图片5" src=" https://github.com/user-attachments/assets/f19f31bf-c917-4ffc-bb9c-e86c726cc065" />
-
-  <img src=" [https://github.com/user-attachments/assets/f19f31bf-c917-4ffc-bb9c-e86c726cc065" width="700" alt="GazeLoom Overall Framework">
-</p>
-
+🧩 Overall Framework
+The proposed GazeLoom framework is a lightweight and geometry-guided approach for 3D driver gaze estimation in railway driving scenarios.
+It consists of three key stages — Feature Extraction, Geometry Guidance, and Fusion & Prediction, as illustrated in Figure 1 below.
+<div align="center">
+  <img width="260" height="200" alt="GazeLoom Framework" src="https://github.com/user-attachments/assets/f19f31bf-c917-4ffc-bb9c-e86c726cc065" />
+</div>
 ---
 
 ### 🎯 Stage 1 — Feature Extraction
