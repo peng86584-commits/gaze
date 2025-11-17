@@ -80,8 +80,8 @@ The proposed **GazeLoom** framework is a lightweight and geometry-guided approac
 It consists of three key stages — **Feature Extraction**, **Geometry Guidance**, and **Fusion & Prediction**, as illustrated in **Figure 1** below.
 
 <p align="center">
-  [total.bmp](https://github.com/user-attachments/files/23573549/total.bmp)
-  <img src="https://github.com/user-attachments/files/23573549/total.bm" width="700" alt="GazeLoom Overall Framework">
+ 
+  <img src=" https://github.com/user-attachments/files/23573619/total.bmp" width="700" alt="GazeLoom Overall Framework">
 </p>
 
 ---
