@@ -29,32 +29,38 @@ By leveraging **multi-modal geometric guidance** and **self-supervised feature e
 
 ## 📸 Visuals
 
-<!-- 图片 2, 3, 4 一排展示，统一大小 -->
+<!-- 图片 一排展示，统一大小 -->
+<!-- 图片一排展示，统一大小（每行三张） -->
 <div align="center">
-    <a href="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" target="_blank">
-  <img  width="301" height="232" alt="图片11" src="https://github.com/user-attachments/assets/0f2ecb2d-3cd2-41ab-81fa-27e61aafe383" />
-  <img  width="301" height="232" alt="图片12" src="https://github.com/user-attachments/assets/f3e91f3b-5e87-46a1-829a-327f8e3a721d" />
-  <img  width="301" height="232"alt="图片13" src="https://github.com/user-attachments/assets/5be57660-463a-4003-a2a8-b5b5d1d75549" />
-
-
-  </a>
+  <!-- 第一行 -->
   <a href="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" target="_blank">
-    <img width="301" height="232"alt="图片5" src="https://github.com/user-attachments/assets/0fcd3faf-e1b1-49cd-8377-1191fd277ce4" />
-    <img width="301" height="232" alt="图片6" src="https://github.com/user-attachments/assets/9732d414-9a6a-4257-a961-852fca559244" />
-    <img width="301" height="232" alt="图片7" src="https://github.com/user-attachments/assets/1d4f8971-6ece-4c7a-b9c9-ca485f1a7730" />
-
+    <img width="260" height="200" alt="图片11" src="https://github.com/user-attachments/assets/0f2ecb2d-3cd2-41ab-81fa-27e61aafe383" />
+    <img width="260" height="200" alt="图片12" src="https://github.com/user-attachments/assets/f3e91f3b-5e87-46a1-829a-327f8e3a721d" />
+    <img width="260" height="200" alt="图片13" src="https://github.com/user-attachments/assets/5be57660-463a-4003-a2a8-b5b5d1d75549" />
   </a>
+  <br><br>
+
+  <!-- 第二行 -->
+  <a href="https://github.com/user-attachments/assets/c5eebd49-0aae-43ed-8f98-006f6228114c" target="_blank">
+    <img width="260" height="200" alt="图片5" src="https://github.com/user-attachments/assets/0fcd3faf-e1b1-49cd-8377-1191fd277ce4" />
+    <img width="260" height="200" alt="图片6" src="https://github.com/user-attachments/assets/9732d414-9a6a-4257-a961-852fca559244" />
+    <img width="260" height="200" alt="图片7" src="https://github.com/user-attachments/assets/1d4f8971-6ece-4c7a-b9c9-ca485f1a7730" />
+  </a>
+  <br><br>
+
+  <!-- 第三行 -->
   <a href="https://github.com/user-attachments/assets/8662444a-d6ea-4255-92b8-175da69e1dc4" target="_blank">
-    <img width="301" height="232" alt="图片8" src="https://github.com/user-attachments/assets/7548f741-8b97-4528-af2f-92d2100ccae1" />
-    <img width="301" height="232" alt="图片9" src="https://github.com/user-attachments/assets/f996580c-a005-4c7a-b511-fe9c7584b7e4" />
-    <img  width="301" height="232"alt="图片10" src="https://github.com/user-attachments/assets/e3bead59-4718-441f-b701-2b23fa40d6dc" />
-
+    <img width="260" height="200" alt="图片8" src="https://github.com/user-attachments/assets/7548f741-8b97-4528-af2f-92d2100ccae1" />
+    <img width="260" height="200" alt="图片9" src="https://github.com/user-attachments/assets/f996580c-a005-4c7a-b511-fe9c7584b7e4" />
+    <img width="260" height="200" alt="图片10" src="https://github.com/user-attachments/assets/e3bead59-4718-441f-b701-2b23fa40d6dc" />
   </a>
-  <a href="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" target="_blank">
-  <img width="280" height="232" alt="图片1" src="https://github.com/user-attachments/assets/8c2f4bc4-eb1f-4303-a93b-be26cd17d0f9" />
-  <img width="280" height="232" alt="图片2" src="https://github.com/user-attachments/assets/7302f26f-8360-4d99-9130-3180c2942869" />
-  <img width="280" height="232" alt="图片3" src="https://github.com/user-attachments/assets/bb47e194-9054-4cb9-9dc5-e25220f233a8" />
+  <br><br>
 
+  <!-- 第四行 -->
+  <a href="https://github.com/user-attachments/assets/a5ced171-192a-4b7b-a8b3-b2b65519e4de" target="_blank">
+    <img width="260" height="200" alt="图片1" src="https://github.com/user-attachments/assets/8c2f4bc4-eb1f-4303-a93b-be26cd17d0f9" />
+    <img width="260" height="200" alt="图片2" src="https://github.com/user-attachments/assets/7302f26f-8360-4d99-9130-3180c2942869" />
+    <img width="260" height="200" alt="图片3" src="https://github.com/user-attachments/assets/bb47e194-9054-4cb9-9dc5-e25220f233a8" />
   </a>
 </div>
 
