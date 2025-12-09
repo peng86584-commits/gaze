@@ -196,8 +196,8 @@ Here are the performance metrics on key datasets:
 
 | **Dataset**              | **AUC ↑** | **L2 ↓**  | **AP ↑**   |
 |--------------------------|:---------:|:---------:|:---------:|
-| **GazeFollow**            | **0.964** | **0.1028**| -         |
-| **VideoAttentionTarget**  | **0.945** | **0.101** | **0.927** |
+| **GazeFollow**            | **0.967** | **0.1012**| -         |
+| **VideoAttentionTarget**  | **0.953** | **0.101** | **0.942** |
 
 > The GazeLoom model achieves high performance across multiple benchmarks with **lightweight architecture**.
 
